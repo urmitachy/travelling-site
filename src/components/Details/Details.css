@@ -1,0 +1,17 @@
+.detail-container{
+    display: flex;
+}
+.container{
+    width: 120%;
+    margin-left: 15%;
+    margin-right: 10px;
+    
+
+}
+h2{
+    color: white;
+    
+}
+p{
+    color: white;
+}
